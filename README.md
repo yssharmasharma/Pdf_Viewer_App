@@ -6,3 +6,9 @@ After that 2 java classes were made for each book. And there I have initialised 
   form assest function to access these pdf.
 
 Hope!! This project will help you.
+
+
+![alt text](https://github.com/yssharmasharma/Pdf_Viewer_App/blob/master/pic1.png?raw=true)
+
+![alt text](https://github.com/yssharmasharma/Pdf_Viewer_App/blob/master/pic2.png?raw=true)
+
